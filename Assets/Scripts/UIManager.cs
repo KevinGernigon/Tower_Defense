@@ -23,4 +23,5 @@ public class UIManager : MonoBehaviour
     {
         timerText.text = "Timer: " + time.ToString("F2");
     }
+
 }
